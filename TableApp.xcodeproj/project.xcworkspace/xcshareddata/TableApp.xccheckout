@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AB688826-50F9-4C7B-9B06-7CD1A92763A3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TableApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B9AB0494-EE82-4029-BD5F-54855D8D473C</key>
+		<string>https://github.com/Kudrinetskiy/RSS-reader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TableApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B9AB0494-EE82-4029-BD5F-54855D8D473C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Kudrinetskiy/RSS-reader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B9AB0494-EE82-4029-BD5F-54855D8D473C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B9AB0494-EE82-4029-BD5F-54855D8D473C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TableApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
